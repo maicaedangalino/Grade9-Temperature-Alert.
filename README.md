@@ -17,3 +17,4 @@ Temperature	Expected LED
 38°C	ON
 42°C	ON
 
+https://wokwi.com/projects/479272844211219457
